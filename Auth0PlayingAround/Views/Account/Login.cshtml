@@ -1,0 +1,14 @@
+﻿<script src="https://cdn.auth0.com/js/lock/11.6.1/lock.min.js"></script>
+<script type="text/javascript">
+  function login() {
+    var lock = new Auth0LockPasswordless('8vP018F5DlEYX70a2nIuIlSamAhVpTvd', 'jaciklum.auth0.com', {
+        allowedConnections: ['sms'],             // Should match the SMS connection name
+        auth: {
+          redirectUrl: 'http://localhost:54472/signin-auth0',
+          responseType: 'code'
+        }
+      });
+    lock.show();
+  };
+</script>
+<a href="javascript:login()">Login</a>

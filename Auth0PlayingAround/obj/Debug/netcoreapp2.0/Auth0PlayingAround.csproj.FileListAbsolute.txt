@@ -1,0 +1,11 @@
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\bin\Debug\netcoreapp2.0\Auth0PlayingAround.deps.json
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\bin\Debug\netcoreapp2.0\Auth0PlayingAround.runtimeconfig.json
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\bin\Debug\netcoreapp2.0\Auth0PlayingAround.runtimeconfig.dev.json
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\bin\Debug\netcoreapp2.0\Auth0PlayingAround.dll
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\bin\Debug\netcoreapp2.0\Auth0PlayingAround.pdb
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\obj\Debug\netcoreapp2.0\Auth0PlayingAround.csprojAssemblyReference.cache
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\obj\Debug\netcoreapp2.0\Auth0PlayingAround.csproj.CoreCompileInputs.cache
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\obj\Debug\netcoreapp2.0\Auth0PlayingAround.AssemblyInfoInputs.cache
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\obj\Debug\netcoreapp2.0\Auth0PlayingAround.AssemblyInfo.cs
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\obj\Debug\netcoreapp2.0\Auth0PlayingAround.dll
+C:\Users\jah\source\repos\Auth0PlayingAround\Auth0PlayingAround\obj\Debug\netcoreapp2.0\Auth0PlayingAround.pdb
